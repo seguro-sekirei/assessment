@@ -5,14 +5,12 @@ body {
   margin-right: auto;
   margin-left: auto;
 }
-
-input {
-  height: 20px;
-}
-
 button {
-  padding: 7px 20px ;
-  background-color: #4875b1;
+  padding: 5px 20px;
+  background-color: #337ab7;
   color: #fdffff;
   border-style: none;
+}
+input {
+  height: 20px;
 }
